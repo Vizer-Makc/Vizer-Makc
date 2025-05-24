@@ -5,7 +5,11 @@
 </p>
 
 <h2 align="center">About me</h2>
+<h3>I'm a self-driven developer with a strong interest in building web applications and experimenting with code.</h3>
 
+<h3>Right now, I’m focused on learning, improving my skills, and preparing personal projects — stay tuned, they’ll be here soon!</h3>
+
+<h3>Thanks for stopping by!</h3>
 <h2 align="center">Language and Tools </h2>
 ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀
 <a href='https://github.com/Vizer-Makc' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FDF900&labelColor=0d1117&color=0d1117'/></a>
