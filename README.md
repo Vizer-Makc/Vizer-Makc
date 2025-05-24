@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Vizer </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <h2 align="center">About me</h2>
